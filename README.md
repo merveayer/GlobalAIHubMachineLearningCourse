@@ -9,13 +9,15 @@
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 
 ## Project Name
-Description of your project.
+Diamonds Dataset Analysis.
 
 ## Requirements
 ```
-Some python libraries
-Some python libraries
-Some python libraries
+pandas
+numpy
+sklearn
+seaborn
+matplotlib
 ```
 ---
 
